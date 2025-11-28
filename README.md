@@ -27,3 +27,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diogoveirospro&show_icons=true&locale=en" alt="diogoveirospro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogoveirospro&theme=dark" alt="diogoveirospro" /></p>
+
+## ᗧ···ᗣ  My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="Pacman Styled Graph" src="https://raw.githubusercontent.com/diogoveirospro/diogoveirospro/output/pacman-style.svg">
+</picture>
+
+
