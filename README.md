@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diogo Veiros</h1>
 <h3 align="center">A passionate Informatics Engineering student of ISEP, from Portugal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diogoveirospro&label=Profile%20views&color=0e75b6&style=flat" alt="diogoveirospro" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogoveirospro" alt="diogoveirospro" /></a> </p>
 
 - 🔭 I’m currently working on a [Intelligent Port Management System](https://github.com/Departamento-de-Engenharia-Informatica/LEI-SEM5-PI-2025-26-3DI-01)
