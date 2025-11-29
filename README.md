@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diogoveirospro&show_icons=true&locale=en" alt="diogoveirospro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogoveirospro&theme=dark" alt="diogoveirospro" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=diogoveirospro&theme=dark" alt="diogoveirospro" /></p>
 
 ## 🐍 My Contribution Snake
 <picture>
