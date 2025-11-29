@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogoveirospro" alt="diogoveirospro" /></a> </p>
 
-- 🔭 I’m currently working on a [Intelligent Port Management System](https://github.com/Departamento-de-Engenharia-Informatica/LEI-SEM5-PI-2025-26-3DI-01)
+- 🔭 I’m currently working on a [Intelligent Port Management System](https://github.com/Departamento-de-Engenharia-Informatica/LEI-SEM5-PI-2025-26-3DI-01) so the project is not yet available here!
 
 - 🌱 I’m currently learning **MEAN**
 
