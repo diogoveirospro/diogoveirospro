@@ -4,11 +4,27 @@
 
 O meu nome é Diogo Veiros, tenho 21 anos e sou natural de Ovar, Aveiro. Atualmente, sou estudante do 3º ano de Engenharia Informática no ISEP. Sou movido por uma intensa curiosidade e por uma vontade constante de compreender o mundo à minha volta e de melhorar os sistemas em que me envolvo. Tenho sólidos conhecimentos em Java, Desenvolvimento Web e sistemas full-stack, e encontro-me a realizar o meu estágio curricular na Deloitte, focado na gestão e integração de APIs.
 
+- 🔭 Atualmente estou a desenvolver uma **framework de API Management e integração** como Trainee na Deloitte, e a terminar a minha **Licenciatura em Engenharia Informática** no ISEP.
+
+- 🌱 No momento, estou a aprofundar conhecimentos em **Segurança de APIs (OAuth 2.0, JWT, Zero-Trust)** e a preparar-me para aprender o **motor Godot** para desenvolvimento de jogos.
+
+- 💬 Podes perguntar-me sobre **Java, TypeScript, C#, Angular e APIs**
+
+- 📫 Como me contactar: **diogaveirospro@gmail.com**
+
+- ⚡ Curiosidade: **O meu interesse por esta área começou quando tive a minha primeira Nintendo 3DS, e o meu grande objetivo a longo prazo é fundar a minha própria startup de desenvolvimento de videojogos!**
+
+<h3 align="left">Conecta-te comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/diogo-veiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogo-veiros" height="30" width="40" /></a>
+<a href="https://instagram.com/diogo_veiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diogo_veiros" height="30" width="40" /></a>
+</p>
+
 <p align="left">
     <a href="https://github.com/diogoveirospro?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Segue-me no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/diogoveirospro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
