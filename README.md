@@ -18,6 +18,7 @@ O meu nome é Diogo Veiros, tenho 21 anos e sou natural de Ovar, Aveiro. Atualme
 
 ### 🤖 Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="HTML"
@@ -122,6 +123,53 @@ O meu nome é Diogo Veiros, tenho 21 anos e sou natural de Ovar, Aveiro. Atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="XML" 
+    title="XML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PL/SQL (Oracle)" 
+    title="PL/SQL (Oracle)"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Apigee (Google Cloud)" 
+    title="Apigee (Google Cloud)"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
+/>
+
+<br/>
+<br/>
+<br/>
+
+### ⚙️ Metodologias de Trabalho
+
+<img 
+    align="left" 
+    alt="Scrum" 
+    title="Scrum"
+    height="28px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" 
+/>
 
 <br/>
 <br/>
@@ -134,3 +182,12 @@ O meu nome é Diogo Veiros, tenho 21 anos e sou natural de Ovar, Aveiro. Atualme
 [![Estatísticas Gerais](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogoveirospro&theme=tokyonight)](https://github.com/diogoveirospro)
 
 [![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diogoveirospro&theme=tokyonight)](https://github.com/diogoveirospro)
+
+## 🐍 My Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogoveirospro/diogoveirospro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogoveirospro/diogoveirospro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diogoveirospro/diogoveirospro/output/github-contribution-grid-snake.svg">
+</picture>
+
+P.S: Projects under development at my university will only appear here when finished!
