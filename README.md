@@ -16,7 +16,7 @@ O meu nome é Diogo Veiros, tenho 21 anos e sou natural de Ovar, Aveiro. Atualme
 
 <h3 align="left">Conecta-te comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diogo-veiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogo-veiros" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diogo-veiros-577914293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogo-veiros" height="30" width="40" /></a>
 <a href="https://instagram.com/diogo_veiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diogo_veiros" height="30" width="40" /></a>
 </p>
 
