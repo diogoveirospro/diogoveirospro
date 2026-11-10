@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia Informática | Trainee Deloitte`**
 
-O meu nome é Diogo Veiros, tenho 21 anos e sou natural de Ovar, Aveiro. Atualmente, sou estudante do 3º ano de Engenharia Informática no ISEP. Sou movido por uma intensa curiosidade e por uma vontade constante de compreender o mundo à minha volta e de melhorar os sistemas em que me envolvo. Tenho sólidos conhecimentos em Java, Desenvolvimento Web e sistemas full-stack, e encontro-me a realizar o meu estágio curricular na Deloitte, focado na gestão e integração de APIs.
+O meu nome é Diogo Veiros, tenho 22 anos e sou natural de Ovar, Aveiro. Atualmente, sou estudante do 3º ano de Engenharia Informática no ISEP. Sou movido por uma intensa curiosidade e por uma vontade constante de compreender o mundo à minha volta e de melhorar os sistemas em que me envolvo. Tenho sólidos conhecimentos em Java, Desenvolvimento Web e sistemas full-stack, e encontro-me a realizar o meu estágio curricular na Deloitte, focado na gestão e integração de APIs.
 
 - 🔭 Atualmente estou a desenvolver uma **framework de API Management e integração** como Trainee na Deloitte, e a terminar a minha **Licenciatura em Engenharia Informática** no ISEP.
 
